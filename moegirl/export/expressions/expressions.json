@@ -1,0 +1,44 @@
+{
+	"DEFAULT":{
+		"PARAMS":{
+			"PARAM_EYE_L_OPEN":1,
+			"PARAM_EYE_L_SMILE":0,
+			"PARAM_EYE_R_OPEN":1,
+			"PARAM_EYE_R_SMILE":0,
+			"PARAM_MOUTH_FORM":0
+		}
+	},
+	"F00.exp.json":{
+		"FADE_IN":500,
+		"FADE_OUT":500,
+		"PARAMS":{
+			"PARAM_EYE_L_OPEN":1,
+			"PARAM_EYE_L_SMILE":0,
+			"PARAM_EYE_R_OPEN":1,
+			"PARAM_EYE_R_SMILE":0,
+			"PARAM_MOUTH_FORM":0
+		}
+	},
+	"Sample Angry":{
+		"FADE_IN":500,
+		"FADE_OUT":500,
+		"PARAMS":{
+			"PARAM_EYE_L_OPEN":1,
+			"PARAM_EYE_L_SMILE":0,
+			"PARAM_EYE_R_OPEN":1,
+			"PARAM_EYE_R_SMILE":0,
+			"PARAM_MOUTH_FORM":-1
+		}
+	},
+	"Sample Smile":{
+		"FADE_IN":500,
+		"FADE_OUT":500,
+		"PARAMS":{
+			"PARAM_EYE_L_OPEN":0,
+			"PARAM_EYE_L_SMILE":1,
+			"PARAM_EYE_R_OPEN":0,
+			"PARAM_EYE_R_SMILE":1,
+			"PARAM_MOUTH_FORM":1
+		}
+	}
+}

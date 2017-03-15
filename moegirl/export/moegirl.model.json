@@ -1,0 +1,17 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"moegirl.moc",
+	"textures":[
+		"moegirl.2048/texture_00.png"
+	],
+	"expressions":[
+		{"name":"F00.exp.json","file":"expressions/F00.exp.json.json"}
+	],
+	"motions":{
+		"idle":[
+		],
+		"":[
+		]
+	},
+	"physics":"moegirl.physics.json"
+}
